@@ -704,6 +704,10 @@ p {
     margin: auto auto auto auto;
 }
 
+footer .col-sm-4{
+    display: none;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
