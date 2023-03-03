@@ -519,8 +519,8 @@ button {
 }
 
 .scrollToTop {
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 60px;
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -530,7 +530,9 @@ button {
 }
 
 .TextScroll{
-    visibility: hidden;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(32, 32, 32);
 }
 
 .scrollToTop span {
