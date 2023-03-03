@@ -529,6 +529,10 @@ button {
     transition: all .3s ease-in-out;
 }
 
+.TextScroll{
+    display: none;
+}
+
 .scrollToTop span {
     margin-top: 6px;
 }
