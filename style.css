@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .a-btn:hover,
@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #f76c36;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -231,7 +231,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -249,7 +249,7 @@ a:hover {
 .l-bloc h5 a:hover,
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
-    color: rgba(0, 0, 0, 1);
+    color: #f76c36;
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -760,6 +760,10 @@ article{
     color: #FFFFFF!important;
 }
 
+.black {
+    color: #000000!important;
+}
+
 .mailto{
     font-style: italic;
     text-decoration: underline #F3976C;
@@ -800,21 +804,25 @@ article{
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #F9B99F;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F9B99F!important;
+}
+
+.tc-tangerine {
+    color: #f76c36!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #F9B99F;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #f5936c!important;
+    color: #000000!important;
 }
 
 .ltc-white {
@@ -826,11 +834,11 @@ article{
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #F9B99F!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #f5936c!important;
 }
 
 .icon-dark-slate-blue {
