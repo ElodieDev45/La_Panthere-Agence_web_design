@@ -272,6 +272,10 @@ a:hover {
     margin-top: 80px;
 }
 
+blockquote{
+    border: none;
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
