@@ -756,6 +756,11 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.mailto{
+    font-style: italic;
+    text-decoration: underline #F3976C;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
