@@ -276,6 +276,10 @@ blockquote{
     border: none;
 }
 
+cite {
+    color: #be542a;
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -656,7 +660,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #252525!important;
 }
 
 .container {
@@ -729,7 +733,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: #252525!important;
 }
 
 .med-width-whitespace {
@@ -739,11 +743,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #252525!important;
 }
 
 h4 {
-    color: #333333!important;
+    color: #252525!important;
 }
 
 article{
@@ -834,7 +838,7 @@ article{
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #ababab!important;
 }
 
 .ltc-atomic-tangerine {
@@ -952,7 +956,7 @@ article{
     }
     .navbar .nav {
         padding-top: 0;
-        border-top: 1px solid rgba(0, 0, 0, .2);
+        border-top: 1px solid rgb(0, 0, 0);
         float: none!important;
     }
     .navbar.row {
