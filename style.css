@@ -530,7 +530,7 @@ button {
 }
 
 .TextScroll{
-    display: none;
+    visibility: hidden;
 }
 
 .scrollToTop span {
