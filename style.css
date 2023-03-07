@@ -342,6 +342,7 @@ cite {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    color: #be542a;
 }
 
 .navbar-toggle {
@@ -380,6 +381,9 @@ cite {
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
         color: #484848;
+    }
+    .site-navigation a:hover{
+        color: #f76c36!important;
     }
     .nav-invert .site-navigation {
         left: 0;
