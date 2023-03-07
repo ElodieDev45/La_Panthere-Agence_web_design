@@ -868,11 +868,11 @@ article{
 }
 
 .bg-banniere {
-    background-image: url("img/optimisees/agence-la-panthere.jpg");
+    background-image: url("img/optimisees/agence-la-panthere.avif");
 }
 
 .bg-presentation {
-    background-image: url("img/optimisees/image-de-presentation.jpg");
+    background-image: url("img/optimisees/image-de-presentation.avif");
 }
 
 @media (max-width: 1024px) {
