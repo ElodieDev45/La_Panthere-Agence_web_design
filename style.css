@@ -343,6 +343,7 @@ cite {
 .nav > li a:focus {
     background: transparent;
     color: #be542a;
+    text-decoration: underline;
 }
 
 .navbar-toggle {
